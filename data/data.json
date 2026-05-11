@@ -1,3 +1,33 @@
 [
-    
+    {
+        "id": "phn-000001",
+        "name": "Phone (1)",
+        "brand": "Nothing",
+        "category": "smartphones",
+        "price": 543.54,
+        "description": "A uniquely designed smartphone focusing on transparency and core functionality.",
+        "images": [
+            "/assets/nothing/nothing-phone-1/nothing-phn1-back-white-light.jpg",
+            "/assets/nothing/nothing-phone-1/nothing-phn1-back-white.png",
+            "/assets/nothing/nothing-phone-1/nothing-phn1-front-white-.jpg"
+        ],
+        "specs": {
+            "processor": "Qualcomm SM7325-AE Snapdragon 778G+5G",
+            "ram": "8/12GB",
+            "storage": "128/256GB",
+            "display": "6.55-inch | OLED | 120Hz | HDR10+ | 500-1200 nits",
+            "battery": "Li-Ion 4500 mAh",
+            "camera_main": "50MP + 50MP (Ultrawide) | 4k@30fps/1080@30-60fps",
+            "os": "Nothing OS 3.0 (Android 12)"
+        },
+        "diy_resources": [
+            {
+                "title": "IFIXIT Nothing Phone (1) Repair Guides",
+                "url": "https://www.ifixit.com/Device/Nothing_Phone_%281%29",
+                "icon": "wrench",
+                "description": "Step-by-step guides on how to teardown, replace battery, LED Glyph assembly, and more.",
+                "type": "REPAIR GUIDE"
+            }
+        ]
+    }
 ]
