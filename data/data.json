@@ -7,9 +7,9 @@
         "price": 543.54,
         "description": "A uniquely designed smartphone focusing on transparency and core functionality.",
         "images": [
-            "https://github.com/Abdulaziz-hu/NData-Content/blob/main/assets/nothing/nothing-phone-1/nothing-phn1-back-white-light.jpg",
-            "https://github.com/Abdulaziz-hu/NData-Content/blob/main/assets/nothing/nothing-phone-1/nothing-phn1-back-white.png",
-            "https://github.com/Abdulaziz-hu/NData-Content/blob/main/assets/nothing/nothing-phone-1/nothing-phn1-front-white-.jpg"
+            "https://raw.githubusercontent.com/Abdulaziz-hu/NData-Content/refs/heads/main/assets/nothing/nothing-phone-1/nothing-phn1-back-white-light.jpg",
+            "https://raw.githubusercontent.com/Abdulaziz-hu/NData-Content/refs/heads/main/assets/nothing/nothing-phone-1/nothing-phn1-back-white.png",
+            "https://raw.githubusercontent.com/Abdulaziz-hu/NData-Content/refs/heads/main/assets/nothing/nothing-phone-1/nothing-phn1-front-white-.jpg"
         ],
         "specs": {
             "processor": "Qualcomm SM7325-AE Snapdragon 778G+5G",
